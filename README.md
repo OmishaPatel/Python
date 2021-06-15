@@ -1,0 +1,1 @@
+* This repository is about beginner python projects, coding probelms on data structures and algorithms.
